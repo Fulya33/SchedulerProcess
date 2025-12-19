@@ -1,0 +1,4 @@
+PyQt6==6.6.1
+PyQt6-Charts==6.6.0
+matplotlib==3.8.2
+numpy==1.26.2
